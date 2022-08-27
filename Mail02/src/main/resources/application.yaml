@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: eserciziomail93@gmail.com
+    password: urlogqcfupixxwkm
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
